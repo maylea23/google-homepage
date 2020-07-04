@@ -1,0 +1,1 @@
+This is the first of my portfolio which will be linked to GitHub. In this project I'm going to deconstruct and rebuild a simple Google homepage, to test my understanding on the basics of HTML/CSS and to do some practice, with the help of Chrome's developer tool.
